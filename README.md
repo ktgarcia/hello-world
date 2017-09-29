@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi humans!
+
+I like cats and coffee!
